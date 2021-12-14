@@ -1,0 +1,24 @@
+{
+  "name": "rbiseleniumpoc",
+  "version": "1.0.0",
+  "description": "automation poc - selenium Js Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config=jestconfig.json --detectOpenHandles"
+  },
+  "author": "Qentelli",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-core": "^6.3.13",
+    "babel-jest": "^27.4.4",
+    "babel-preset-es2015": "^6.3.13",
+    "chromedriver": "^96.0.0",
+    "imap": "^0.8.19",
+    "selenium-webdriver": "^4.1.0"
+  }
+}

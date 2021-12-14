@@ -1,0 +1,12 @@
+{
+    "_comment": "This file contains the data to feed the test scripts",
+    "test_data": {
+      "address":{ 
+        "us":"4441 Collins Avenue, Miami Beach, FL, USA",
+        "ca":"abcd"},
+      "store": {
+        "us":"4441 Collins Ave", 
+        "ca": "store"},
+      "main_menu_option": "Breakfast Meals"
+    }
+}
